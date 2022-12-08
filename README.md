@@ -1,0 +1,1 @@
+For running the jupyter notebook named Homework2_MLCS.ipynb, change the variables containing the location of the datasets and the saved models as commented in the notebook. For different values of $X$, change the same in the notebook where it is indicated in the comments.
